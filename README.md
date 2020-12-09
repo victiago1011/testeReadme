@@ -27,3 +27,13 @@ Após fazer o Download e extrair o arquivo para um local seguro, será necessár
 - **JDBC** - API do Java que se comunica com o PostgreSQL (recomendamos a última versão).
 
 [Baixar JDBC do PostgreSQL](https://jdbc.postgresql.org/download.html)
+
+------------------------------------
+
+## Autores
+
+- Matheus Alberto Rosa
+- Victor Hugo Rodrigues Santiago
+- Vinícius Rodrigues Santiago
+- Yuri Furtado Ranieri
+
