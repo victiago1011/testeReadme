@@ -16,17 +16,11 @@ Após fazer o Download e extrair o arquivo para um local seguro, será necessár
 
 ## Pré - Requisitos e Recomendações
 
-- **JAVA** - Recomendamos versão sempre a última versão (15)
+- **JAVA** - Recomendamos versão sempre a última versão (15) - [Baixar OpenJDK](http://jdk.java.net/archive/)
 
-[Baixar OpenJDK](http://jdk.java.net/archive/)
+- **PostgreSQL** - Recomendamos o PostgreSQL como Banco de Dados - [Baixar PostgreSQL](https://www.postgresql.org/download/)
 
-- **PostgreSQL** - Recomendamos o PostgreSQL como Banco de Dados
-
-[Baixar PostgreSQL](https://www.postgresql.org/download/)
-
-- **JDBC** - API do Java que se comunica com o PostgreSQL (recomendamos a última versão).
-
-[Baixar JDBC do PostgreSQL](https://jdbc.postgresql.org/download.html)
+- **JDBC** - API do Java que se comunica com o PostgreSQL (recomendamos a última versão) - [Baixar JDBC do PostgreSQL](https://jdbc.postgresql.org/download.html)
 
 ------------------------------------
 
