@@ -6,13 +6,22 @@ Este Projeto é um cadastro simples de perguntas e respostas, com foco em melhor
 ------------------------------------
 ### Instruções iniciais
 
+Após fazer o Download e extrair o arquivo para um local seguro, será necessário fazer algumas alteraçoes no arquivo *`ConexaoFactory.java`* (localizado na pasta *`model`*)
 
+* Alterar a variável **URL**, de forma que seja possível encontrar no seu computador `jdbc:postgresql://endereco_servidor:porta/nome_do_banco`.
 
-### Pré - Requisitos
+* Alterar as variáveis **USUARIO** e **SENHA** para as que estão no seu Postgres (pgAdmin).
 
-- Back-end:
-  - Java;
-- Front-end:
-  - Java Swing;
-- Banco de dados:
-  - PostgreSQL;
+### Pré - Requisitos e Recomendações
+
+- **JAVA** - Recomendamos versão sempre a última versão (15)
+
+[Baixar OpenJDK](http://jdk.java.net/archive/)
+
+- **PostgreSQL** - Recomendamos o PostgreSQL como Banco de Dados
+
+[Baixar PostgreSQL](https://www.postgresql.org/download/)
+
+- **JDBC** - API do Java que se comunica com o PostgreSQL (recomendamos a última versão).
+
+[Baixar JDBC do PostgreSQL](https://jdbc.postgresql.org/download.html)
