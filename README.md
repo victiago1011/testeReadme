@@ -4,7 +4,7 @@
 Este Projeto é um cadastro simples de perguntas e respostas, com foco em melhorar a didática dos professores em sala de aula, e ao mesmo tempo, tornar a Matemática uma matéria divertida e fácil de se aprender. No primeiro momento este jogo será desenvolvido apenas para os alunos do Ensino Fundamental I.
 
 ------------------------------------
-### Instruções iniciais
+## Instruções iniciais
 
 Após fazer o Download e extrair o arquivo para um local seguro, será necessário fazer algumas alteraçoes no arquivo *`ConexaoFactory.java`* (localizado na pasta *`model`*)
 
@@ -12,7 +12,9 @@ Após fazer o Download e extrair o arquivo para um local seguro, será necessár
 
 * Alterar as variáveis **USUARIO** e **SENHA** para as que estão no seu Postgres (pgAdmin).
 
-### Pré - Requisitos e Recomendações
+------------------------------------
+
+## Pré - Requisitos e Recomendações
 
 - **JAVA** - Recomendamos versão sempre a última versão (15)
 
