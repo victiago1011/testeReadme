@@ -1,12 +1,14 @@
-# MUNDOMÁTICA
+## MUNDOMÁTICA
 ## Projeto Integrador (PI)
 ### Faculdade SENAI - 2020.2
+Este Projeto é um cadastro simples de perguntas e respostas, com foco em melhorar a didática dos professores em sala de aula, e ao mesmo tempo, tornar a Matemática uma matéria divertida e fácil de se aprender. No primeiro momento este jogo será desenvolvido apenas para os alunos do Ensino Fundamental I.
+
 ------------------------------------
-## Ideia :bulb:
+### Instruções iniciais
 
-Fazer um jogo que possa ajudar crianças do ensino fundamental I, com foco nas crianças que possuem Transtorno de Hiperatividade com Deficit de Atenção (TDAH) a aprender matematica de uma forma mais divertida e interativa.
 
-## Tecnologias :computer:
+
+### Pré - Requisitos
 
 - Back-end:
   - Java;
